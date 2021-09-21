@@ -18,11 +18,11 @@ This aims to solve the exchange of value when a tutor and a student engage in a 
 
 ## Use example 1
 
-Tutor and student agreed on 10 classes for a total cost of 10ETH. The tutor executes the contract and the student accept. The 10ETH from the student are stored on the contract wallet. When the student attend to a class and mark his attendance, allows the tutor to withdraw a quantity proportional to the amount of lessons attendend. The tutor can withdrawn the available ETH, or wait to give more lessons and withdraw the accumulated amount later.
+Tutor and student agreed on 10 classes for a total cost of 10ETH. The tutor executes the contract and the student accept. The 10ETH from the student are stored on the contract wallet. When the student attend to a class and mark his attendance, allows the tutor to withdraw a quantity proportional to the amount of lessons attendend. The tutor can withdraw the available ETH, or wait to give more lessons and withdraw the accumulated amount later.
 
 ## Use example 2
 
-Tutor and student agreed on 1 class for a total cost of 10ETH. The tutor executes the contract and the student accept. The 10ETH from the student are stored on the contract wallet. Before having the class the student regret his decision and decide to withdraw the stored ETH, cancelling the class. He gets the full staked value minus fees
+Tutor and student agreed on 1 class for a total cost of 10ETH. The tutor executes the contract and the student accept. The 10ETH from the student are stored on the contract wallet. Before having the class the student regrets his decision and decide to withdraw the stored ETH, cancelling the class. He gets the full stored value minus fees
 
 ## Use example 3
 
