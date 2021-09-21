@@ -1,6 +1,6 @@
 # blockchain-developer-bootcamp-final-project
 
-# A simple blockchain based system for value exchange between learners and educators
+** A simple blockchain based system for value exchange between learners and educators
 
 # About
 
