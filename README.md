@@ -6,7 +6,7 @@
 
 __*A simple value exchange system where tutors and students engage in a one-on-one class*__
 
-This aims to solve the exchange of value when a tutor and a student engage in a one-on-one class, specially when both resides in different countries. Both parts meet to arrange a economic value for the class or series of classes, and when they agree, the tutor puts the amount of ETH, and the amount of classes to be given on a smart contract. The student then sign that in  acceptance, and the specified value is stored in the contract wallet. When the student attend to a class, it signs a attendance counter, and the fraction corresponding to that class is available to the teacher to withdraw
+This aims to solve the exchange of value when a tutor and a student engage in a one-on-one class, specially when both resides in different countries. Both parts meet to arrange an economic value for the class or series of classes, and when they agree, the tutor declares an amount of ETH, and the amount of classes to be given on a smart contract. The student then sign that in  acceptance, and the specified value is deducted from the student´s wallet and stored in the contract wallet. When the student attend to a class, it signs a attendance counter, and the fraction corresponding to that class is available to the teacher to withdraw
 
 ## Flow
 1. A tutor and a student agree on the quantity of classes and the total cost
