@@ -27,3 +27,15 @@ Tutor and student agreed on 1 class for a total cost of 10ETH. The tutor execute
 ## Use example 3
 
 Tutor and student agreed on 10 class for a total cost of 10ETH. The tutor executes the contract and the student accept. The 10ETH from the student are stored on the contract wallet. The student takes 3 lessons, but the decides to stop attending and withdraw the stored value on the contract´s wallet. He gets the stored value minus the value of the attended classes (7ETH minus fees)
+
+## Things to be thought
+
+- An economic mechanism that avoids uncommitment
+- Scoring system for both teachers and students, to show given or attended classes to other members
+- NFT or POAP given to student on accomplished goals or finished course
+
+
+
+
+
+
