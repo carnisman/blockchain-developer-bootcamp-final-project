@@ -1,0 +1,45 @@
+function papaCreate(address _tutor) {
+
+	// Tutor creates the course, wich includes number of lessons, total cost, address of student and a time lock
+
+};
+
+function papaApprove(address _student, uint _papaCourse) {
+
+	// Student approves that contract, the total cost of the course is deducted from student wallet and stored on the contract
+
+};
+
+function papaView(address _anyaddress) {
+
+	// List all courses for any given address
+
+};
+
+function papaInit(address _tutor, uint _papaCourse) {
+
+  // The tutor calls for the start of an individual lesson
+
+};
+
+function papaAssist(address _student, uint _papaCourse) {
+
+  // The student is giving attendance, making possible a partial withdrawn for the teacher
+
+};
+
+function papaWithdrawn(address _tutor, uint _papaCourse) {
+
+  // The teacher can make withdrawns from here
+
+};
+
+function papaRecover(address _student, uint _papaCourse) {
+
+  // If a time lock for unfulfillment is set, after that period of time, the student can recover all of his remaining tokens
+
+};
+
+function () {
+  //  A fallback here
+};
