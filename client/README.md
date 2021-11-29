@@ -18,9 +18,8 @@ https://papapay.ordinar.io
 
 - Run `npm install` in project´s root directory. This will install Truffle, hdwallet, dotenv and OpenZeppelin ReentrancyGuard among others dependencies
 - Run Ganache UI in port `7545` and network id `1337` Remember to add the truffle-config.js in Ganache´s truffle project. You can change the Network ID clicking in the configuration gear, then going to server and setting the Network ID to 1337 there
+- To test the contract, edit `./contracts/PapaPay.sol`, uncomment lines 293 to 310 (fetchCourse function), save changes, and from project´s root directory run run `truffle migrate --network development --reset` and then run `truffle test` 
 - To deploy the contract locally, after re-commenting lines 293 to 310, run `truffle migrate --network development --reset`
-- To test the contract, edit `./contracts/PapaPay.sol`, uncomment lines 293 to 310 (fetchCourse function), save changes, and from project´s root directory run `truffle test` 
-
 
 ### Frontend deployment
 
