@@ -24,7 +24,7 @@ https://papapay.ordinar.io
 ### Frontend deployment
 
 - Go to client directory `cd client`
-- If you want to use the previous locally deployed contract edit `./src/index.js` and change line 22, state variable `myChain` from `0x3` (That´s Ropsten chainId) to `0x539` (Ganache´s 1337 chainId).
+- If you want to use the previous locally deployed contract edit `./src/index.js` and change line 22, state variable `myChain` from `0x3` (That´s Ropsten chainId) to `0x539` (Ganache´s 1337 chainId). Save and exit.
 - Run `npm install` to install packages and dependencies
 - To start the server run `npm run start`
 - Open `http://localhost:3000`
